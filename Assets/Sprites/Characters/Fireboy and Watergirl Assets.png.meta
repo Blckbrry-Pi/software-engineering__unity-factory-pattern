@@ -1,0 +1,3025 @@
+fileFormatVersion: 2
+guid: 3cbf8d2877982413f94fb7678de65653
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WG_HeadFall_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6c40c27edad4a25af68d1cd1690394
+      internalID: 1380651880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f453e125a04ebdbd297d10b5a481e
+      internalID: -1676598943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541021382c9504d3bab21a0a32851859
+      internalID: -1730399105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10890b571198c4b28bb7497dc62fc52e
+      internalID: -2063718872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20681f55dbc9447db8374319c4aec6a
+      internalID: -2139071890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff671392bf0a94583a740d6994c03bd5
+      internalID: 602740742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495926970d434277b31580606282c87
+      internalID: -246120006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238b029a2f544499ae84cd98e4d6902
+      internalID: -1737333595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a0b451e4124a2fba350c6db6fb041
+      internalID: -2068716610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a157d779a2643f89e3b5e514cf7971
+      internalID: 492975277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFall_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461befaec900e437e84c86e60087ac09
+      internalID: -1102091218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_0
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1937
+        width: 119
+        height: 99
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d3428fda134fd980488fa8324b96c
+      internalID: 570405108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_1
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1938
+        width: 118
+        height: 97
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143fe4934c00c4fae9ca12fe8c6ca422
+      internalID: -502037721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_2
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1939
+        width: 116
+        height: 95
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08f35811d8524b3580b10924f7344c6
+      internalID: 873110615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1733
+        width: 114
+        height: 91
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e05b2432c44ccb86c4e605496d6f7
+      internalID: -481181607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1732
+        width: 115
+        height: 93
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10291e7b35347d58d17e503460bffa
+      internalID: -1032017285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1731
+        width: 116
+        height: 95
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b145ca7d8547f39ef383b5fd467be
+      internalID: 1648901650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1730
+        width: 118
+        height: 97
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b576ccc3bca41bf8aaea22244568cb
+      internalID: -2040300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1729
+        width: 119
+        height: 99
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e0b33d2461489c8c03f0498dff7f5
+      internalID: 1433778031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_3
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1794
+        width: 115
+        height: 93
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c44e4c71354415aad256509b83091
+      internalID: 36925276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_4
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1795
+        width: 114
+        height: 91
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e69257e437e49789b3bf8a850596ed
+      internalID: -1583099613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadSide_5
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1795
+        width: 112
+        height: 90
+      alignment: 9
+      pivot: {x: 0.64, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a743f59d342145ecbdf7dc752ada08e
+      internalID: 1578938014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsFace_0
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1696
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c877bab60ec45dc99f418c0d52cf33
+      internalID: 126515562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_0
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1696
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62547adc8e6a849688b5417342b7f773
+      internalID: 16106282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_1
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1695
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072022a037cd24f009f64b38cc207802
+      internalID: 943487943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_2
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1696
+        width: 51
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ed0b38231040a6a39814f31c625c2
+      internalID: -1397340972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1550
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860039c3d5bd943f889ff6f372e3a454
+      internalID: -1964020766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsFace_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00fdc4271e5841ee83dbe7913bd08aa
+      internalID: 823087631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1550
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e1ab4674574dc7a638a7bf7481355
+      internalID: -1534664177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1549
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e201805fd84eca8825ac39215c154
+      internalID: 1428633078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1550
+        width: 51
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305f743e95e0467d844e6872d940747
+      internalID: -1954732427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1550
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d4bf65255e4a4991292fccc8bb5dd
+      internalID: -1264127645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1612
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ae6333386340e9bca2033071fe8b2
+      internalID: 1328562763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1612
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204820def3be64a568946447194b794f
+      internalID: 1447270058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1611
+        width: 51
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0e0991dc7543f99482b92a3bde281
+      internalID: -1367413171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_LegsSide_6
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1611
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb9a1e3c11df47a299ce72a35ad4fea
+      internalID: -2103823856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1520
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb57a50291842ebb5569782abf1723
+      internalID: -1420435683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1519
+        width: 51
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5f5ae7e1486402c9364021564c1422
+      internalID: -509141364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_6
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1519
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b8afc18aa24f92b38d91a27df77fc
+      internalID: -271644992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_LegsSide_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1520
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cf6531b47d45e7887a3a032d49151
+      internalID: 1671206123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_0
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378e2b8b902e4355b268e90acbd4037
+      internalID: 1523751938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_1
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64bbb7766524232a5eff33c887041a
+      internalID: -1878185204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_2
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c6afb7586143ed8bc0b358bbd1270
+      internalID: 981924468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_3
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5732d93221ead41aebbc5822da2a1df8
+      internalID: -594976056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_4
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce786f3408f4c4641bb09015920ba580
+      internalID: 121628784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da766013a35ee40ceb9cb5770fe79e3c
+      internalID: -1872874331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee3c404df0c4c5f8daece6534b489c
+      internalID: -1017687652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea4b00c85af4b7babe91d9da680f6e
+      internalID: -393458037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e191ed5ac6744d7096005a74f26c6e8
+      internalID: -1351743683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37341291bb13477e930c0a6b385a195
+      internalID: 1680301152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773083143134d41f0a4e856003a32756
+      internalID: -1633974776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_11
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08825b0d930164e309f0fad64a4f598f
+      internalID: -1419357995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_12
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d005dd6ff4a34351947c472e02656e9
+      internalID: 500773355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_13
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7bf53e631644c8b97394953d490de
+      internalID: -674206461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_14
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932eb51cbcf2848a2bf0500c3a0f5b37
+      internalID: -110919497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_15
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599291bdf9e6403a93d9edd759c15c0
+      internalID: 1900332133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b58b84b25a43d5ad32073dfd1b796
+      internalID: 1936273044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_17
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e632b2d5de4c1f90ab5fd4edd9448
+      internalID: -857460072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_18
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf97e2c5e0d4c9382726e5c14bbaff
+      internalID: 544010766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_19
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76082955185a64545ac514aa8eca43f5
+      internalID: -923263741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6afda23a234327993363ea40caae0
+      internalID: 1172667656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b22be62214749e4a3d95205eee98db
+      internalID: -2014232605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8cbc7e0bec14bd1be55d1465cdb73f
+      internalID: 794062860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bfcb3bd526e419abeb786713e4ea6b
+      internalID: 1472001533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cc6d7251044fbdaa3bc017c5099ff
+      internalID: -1066686724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_25
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fdd84473a964f80b2c4b1884d7bb0b
+      internalID: 636807632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500201b067e48493285e544444692b9b
+      internalID: 1481315441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_27
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945c0cec1754b4e98be915ef8281352f
+      internalID: -846674316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5777f30314d457a8b1201c095b073a
+      internalID: 85681732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadFace_29
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9ac929f16144d2ada5f844cf71515
+      internalID: 1390822272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1078
+        width: 87
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c05754410ca4e6392523e520229c80
+      internalID: 2049178899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1077
+        width: 85
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a8102f62764ef78525909e7d3c325
+      internalID: -1552356733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1077
+        width: 84
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0982c67577b342d0953139152e16a89
+      internalID: 1650186030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1077
+        width: 82
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4c3f260ae14727977fb27176aeecd
+      internalID: 1862608122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1076
+        width: 80
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8ff69b86b74ceeb3ae78dd9b11cc3
+      internalID: -1333972389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1078
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39533d80be7ac4bda93c7f7fee827519
+      internalID: 2056266384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFall_0
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa2e3914f9c46fdb9a4915a91325b4
+      internalID: 1775254402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFall_1
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3743007c01848ce9a99ec002cb848a
+      internalID: -1854390144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFall_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1149
+        width: 66
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367123f6b3f7b47e8b060aef9cc2ee4b
+      internalID: -1291319699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFall_3
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1149
+        width: 66
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa89d96c13e4d8fadf45be12ad6877
+      internalID: 422897374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFall_4
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1149
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325801657ce9843f8a682e5f73b02038
+      internalID: -275268545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_6
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1048
+        width: 80
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2151472a26b742eca21a5a84f0ce01f
+      internalID: -859886467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_7
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 9
+      pivot: {x: 0.48, y: 0.145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408198bbf2e64bd8bd7e225a8b2b5bc
+      internalID: 126950171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 9
+      pivot: {x: 0.47, y: 0.145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51f1390d73d4965bc3ec6c09e42083
+      internalID: 1004241345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_10
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1050
+        width: 79
+        height: 93
+      alignment: 9
+      pivot: {x: 0.47, y: 0.135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac07dfdf13e418693fc071e6afde87
+      internalID: -558889124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_11
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 976
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 0.47, y: 0.138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ad401ac9d14f9197a6e34ad730d12
+      internalID: 1728450204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 976
+        width: 81
+        height: 90
+      alignment: 9
+      pivot: {x: 0.48, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844f56abd70b41b9bf3cc8822785cdb
+      internalID: -429804851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 976
+        width: 83
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d810f27256141a1a3332dc5ede29b4
+      internalID: -469956254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_14
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 976
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421004f5565d46e686dc6f6d3be00cd
+      internalID: 1276677368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_15
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 976
+        width: 83
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51, y: 0.148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac59db74ddd9f4552aa0e7941a0fc4ca
+      internalID: 164940380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 913
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.515, y: 0.154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea325439df7c4253aa7d641091e2307
+      internalID: -900169040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 913
+        width: 85
+        height: 89
+      alignment: 9
+      pivot: {x: 0.519, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6c83841f57e4adfb298c1ebd87b8ab
+      internalID: 947465907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 913
+        width: 86
+        height: 91
+      alignment: 9
+      pivot: {x: 0.515, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200687c7f516489f801216bda0e593b
+      internalID: 1615306530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadFace_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 912
+        width: 87
+        height: 94
+      alignment: 9
+      pivot: {x: 0.525, y: 0.154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f179fbe625c46fe8c2d1b52c56248e
+      internalID: -267850850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_0
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 922
+        width: 93
+        height: 77
+      alignment: 9
+      pivot: {x: 0.76, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079daf06197f47e7af8380728459106
+      internalID: -872694321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 892
+        width: 89
+        height: 77
+      alignment: 9
+      pivot: {x: 0.75, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dec82f9d2ba4fe38ac1b0aa0ba8ac4
+      internalID: -1719128451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_2
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 892
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 0.745, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01e685a3c7b4b5aad735afa2d8f5d4
+      internalID: -755868054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_3
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 892
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.74, y: 0.283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb85d54d2d945ea80c4e18b047c115
+      internalID: -1944817331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_4
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 893
+        width: 78
+        height: 75
+      alignment: 9
+      pivot: {x: 0.72, y: 0.273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c9a36fff1ff49f1908df46bb10c571
+      internalID: -243380040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 725
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80152f0ed17ed4697aa64b63c386d7fe
+      internalID: -1135415070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 725
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a2f5ebac894daea4c41cd565011e5
+      internalID: 933919612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 725
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a4f9dd7da304887be628b5a56dc990
+      internalID: 2051817293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadRise_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 751
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f5d49933dc34b97bb3148839d034e7
+      internalID: -1201234265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 788
+        width: 89
+        height: 77
+      alignment: 9
+      pivot: {x: 0.75, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e02078fa4394001accf3f0625cb71d
+      internalID: -323865588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 93
+        height: 77
+      alignment: 9
+      pivot: {x: 0.765, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff23f5939e0a744808848eb8929101b6
+      internalID: -1360530685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_0
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 727
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cea4dbac6de4e529ccd35389ebb8f5
+      internalID: 127699744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_1
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 727
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7e9a622967b4e5eb9db46cd1b99fde
+      internalID: -1902748619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 727
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeca93f2dcab4960b37666bff954a83
+      internalID: -1913163770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_5
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 819
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415bd71ab0663440da7b0ee27a546131
+      internalID: 1078308529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 819
+        width: 78
+        height: 75
+      alignment: 9
+      pivot: {x: 0.72, y: 0.273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9236ac3f1748442796f54d5eb295017
+      internalID: -998607468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 818
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.75, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b8aa2b413a49d8a1457faeab09a47
+      internalID: 1502272456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadSide_8
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 818
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 0.74, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165210cd898ab4afaadd258cf3dd1037
+      internalID: -1858021088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadRise_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 645
+        width: 86
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345ebcbaad6924a6ea16722ce15d0731
+      internalID: 159597397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_6
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 653
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b3c3af9dd44a0bb372b121673d853
+      internalID: 835099000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_7
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 653
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109ff2208e26406abbcdfc831aa1aa9
+      internalID: 1784232884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_8
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 653
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872887c5a481e443cb0f3ad44d6bcf09
+      internalID: 1763418442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_9
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 653
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352a53bbe3e0466da5aa8e420ebd204
+      internalID: 922529352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WG_HeadRise_10
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 653
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e665abf840e4e6aa5d1a3d8bba28b4
+      internalID: 878274677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem_FW
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 606
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bbb832225254b5a976df100c39582e
+      internalID: -728274946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadRise_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 610
+        width: 86
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e2f9b1240641acacd4367eda20d3e
+      internalID: 689279047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadRise_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 613
+        width: 86
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399243f7c7d04837aa74e9bf4f369a6
+      internalID: 380946096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FB_HeadRise_3
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 609
+        width: 86
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98bef679e344feaa9e26bbabc6162d
+      internalID: 1595642020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem_XX
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 605
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12eaf583b054505979e66e6fd8509b
+      internalID: 863072251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem_WG
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6c79a6a3c940548eeb78763ee67a9
+      internalID: -1114588366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem_FB
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac31a5a3e94b426d9084e72a4e5e4cb
+      internalID: 163016050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FB_HeadFace_0: 2049178899
+      FB_HeadFace_1: -1552356733
+      FB_HeadFace_10: -558889124
+      FB_HeadFace_11: 1728450204
+      FB_HeadFace_12: -429804851
+      FB_HeadFace_13: -469956254
+      FB_HeadFace_14: 1276677368
+      FB_HeadFace_15: 164940380
+      FB_HeadFace_16: -900169040
+      FB_HeadFace_17: 947465907
+      FB_HeadFace_18: 1615306530
+      FB_HeadFace_19: -267850850
+      FB_HeadFace_2: 1650186030
+      FB_HeadFace_3: 1862608122
+      FB_HeadFace_4: -1333972389
+      FB_HeadFace_5: 2056266384
+      FB_HeadFace_6: -859886467
+      FB_HeadFace_7: 126950171
+      FB_HeadFace_9: 1004241345
+      FB_HeadFall_0: 1775254402
+      FB_HeadFall_1: -1854390144
+      FB_HeadFall_2: -1291319699
+      FB_HeadFall_3: 422897374
+      FB_HeadFall_4: -275268545
+      FB_HeadRise_0: -1201234265
+      FB_HeadRise_1: 159597397
+      FB_HeadRise_2: 380946096
+      FB_HeadRise_3: 1595642020
+      FB_HeadRise_4: 689279047
+      FB_HeadSide_0: -872694321
+      FB_HeadSide_1: -1719128451
+      FB_HeadSide_10: -1360530685
+      FB_HeadSide_2: -755868054
+      FB_HeadSide_3: -1944817331
+      FB_HeadSide_4: -243380040
+      FB_HeadSide_5: 1078308529
+      FB_HeadSide_6: -998607468
+      FB_HeadSide_7: 1502272456
+      FB_HeadSide_8: -1858021088
+      FB_HeadSide_9: -323865588
+      FB_LegsFace_0: 823087631
+      FB_LegsSide_0: 16106282
+      FB_LegsSide_1: 943487943
+      FB_LegsSide_2: -1397340972
+      FB_LegsSide_3: 1328562763
+      FB_LegsSide_4: 1447270058
+      FB_LegsSide_5: -1367413171
+      FB_LegsSide_6: -2103823856
+      FB_LegsSide_7: -1964020766
+      Fireboy and Watergirl Assets_113: 1318739205
+      Fireboy and Watergirl Assets_114: -309386374
+      Fireboy and Watergirl Assets_115: -1715692137
+      Fireboy and Watergirl Assets_116: -1701212092
+      Fireboy and Watergirl Assets_123: -190823089
+      Fireboy and Watergirl Assets_125: 1986407898
+      Fireboy and Watergirl Assets_126: 2010512410
+      Fireboy and Watergirl Assets_127: -1036309446
+      Fireboy and Watergirl Assets_134: -97267422
+      Fireboy and Watergirl Assets_135: -1304082432
+      Fireboy and Watergirl Assets_136: -2078381890
+      Fireboy and Watergirl Assets_137: -60715697
+      Fireboy and Watergirl Assets_138: -1364759445
+      Fireboy and Watergirl Assets_139: 1642178954
+      Fireboy and Watergirl Assets_140: 940708336
+      Fireboy and Watergirl Assets_141: -1905140248
+      Fireboy and Watergirl Assets_142: 2065117723
+      Fireboy and Watergirl Assets_143: 91941227
+      Fireboy and Watergirl Assets_144: -200425012
+      Fireboy and Watergirl Assets_145: -1561657291
+      Fireboy and Watergirl Assets_146: 1625664641
+      Fireboy and Watergirl Assets_147: -1077520425
+      Fireboy and Watergirl Assets_148: -1914366462
+      Fireboy and Watergirl Assets_149: 112271950
+      Fireboy and Watergirl Assets_150: 298246986
+      Fireboy and Watergirl Assets_151: -1641755074
+      Fireboy and Watergirl Assets_152: 2094048211
+      Fireboy and Watergirl Assets_153: -1426435576
+      Fireboy and Watergirl Assets_154: 512021422
+      Fireboy and Watergirl Assets_155: -908074419
+      Fireboy and Watergirl Assets_156: -950039818
+      Fireboy and Watergirl Assets_157: 1555740231
+      Fireboy and Watergirl Assets_158: -611175264
+      Fireboy and Watergirl Assets_159: -520869609
+      Fireboy and Watergirl Assets_160: -329941091
+      Fireboy and Watergirl Assets_161: -138552053
+      Fireboy and Watergirl Assets_162: 361569544
+      Fireboy and Watergirl Assets_163: -614674597
+      Fireboy and Watergirl Assets_164: -1246366477
+      Fireboy and Watergirl Assets_165: 2000842207
+      Fireboy and Watergirl Assets_166: -234050623
+      Fireboy and Watergirl Assets_167: -1998427783
+      Fireboy and Watergirl Assets_168: 1556287425
+      Fireboy and Watergirl Assets_169: -1634243141
+      Fireboy and Watergirl Assets_170: -927407456
+      Fireboy and Watergirl Assets_171: -344562273
+      Fireboy and Watergirl Assets_172: 1392325592
+      Fireboy and Watergirl Assets_173: -1532584463
+      Fireboy and Watergirl Assets_174: 787670060
+      Fireboy and Watergirl Assets_175: -2018560439
+      Fireboy and Watergirl Assets_176: -972893063
+      Fireboy and Watergirl Assets_177: -902407138
+      Fireboy and Watergirl Assets_178: 1552731388
+      Fireboy and Watergirl Assets_179: -358913049
+      Fireboy and Watergirl Assets_180: 897013122
+      Fireboy and Watergirl Assets_181: -1244372050
+      Fireboy and Watergirl Assets_182: -805546199
+      Fireboy and Watergirl Assets_183: 1147749243
+      Fireboy and Watergirl Assets_184: 1288855929
+      Fireboy and Watergirl Assets_185: -64896913
+      Fireboy and Watergirl Assets_186: -545051038
+      Fireboy and Watergirl Assets_187: 1439694224
+      Fireboy and Watergirl Assets_188: 1221028685
+      Fireboy and Watergirl Assets_189: 1550614715
+      Fireboy and Watergirl Assets_190: 572708189
+      Fireboy and Watergirl Assets_191: -1350163217
+      Fireboy and Watergirl Assets_192: 696473050
+      Fireboy and Watergirl Assets_193: -416293140
+      Fireboy and Watergirl Assets_194: 96998374
+      Fireboy and Watergirl Assets_195: -1515738313
+      Fireboy and Watergirl Assets_196: -1496431183
+      Fireboy and Watergirl Assets_197: -1506121756
+      Fireboy and Watergirl Assets_198: -1000997423
+      Fireboy and Watergirl Assets_199: -1737496303
+      Fireboy and Watergirl Assets_200: 1854071933
+      Fireboy and Watergirl Assets_201: 1514961072
+      Fireboy and Watergirl Assets_202: 673511282
+      Fireboy and Watergirl Assets_203: -1664667898
+      Fireboy and Watergirl Assets_204: 6567756
+      Fireboy and Watergirl Assets_205: -1130457052
+      Fireboy and Watergirl Assets_206: -944330174
+      Fireboy and Watergirl Assets_207: -649778199
+      Fireboy and Watergirl Assets_208: -778637656
+      Fireboy and Watergirl Assets_209: -93595286
+      Fireboy and Watergirl Assets_210: 298752552
+      Fireboy and Watergirl Assets_211: 498875232
+      Fireboy and Watergirl Assets_212: -1190276699
+      Fireboy and Watergirl Assets_213: 1462962329
+      Fireboy and Watergirl Assets_214: -256290185
+      Fireboy and Watergirl Assets_215: -2002762199
+      Fireboy and Watergirl Assets_216: -1749492240
+      Fireboy and Watergirl Assets_217: 1704083816
+      Fireboy and Watergirl Assets_218: -39972118
+      Fireboy and Watergirl Assets_219: -989742053
+      Fireboy and Watergirl Assets_220: -798263807
+      Fireboy and Watergirl Assets_221: -1283733287
+      Fireboy and Watergirl Assets_222: 1107964214
+      Fireboy and Watergirl Assets_223: 1538707167
+      Fireboy and Watergirl Assets_224: -1335755653
+      Fireboy and Watergirl Assets_225: -1895402972
+      Fireboy and Watergirl Assets_226: -468376733
+      Fireboy and Watergirl Assets_227: 1179904634
+      Fireboy and Watergirl Assets_228: 1144921610
+      Fireboy and Watergirl Assets_229: -375176406
+      Fireboy and Watergirl Assets_230: 1312942907
+      Fireboy and Watergirl Assets_231: -476410318
+      Fireboy and Watergirl Assets_232: 1854713466
+      Fireboy and Watergirl Assets_233: -1975073717
+      Fireboy and Watergirl Assets_234: -1595865005
+      Fireboy and Watergirl Assets_235: 1724385162
+      Fireboy and Watergirl Assets_236: -511531063
+      Fireboy and Watergirl Assets_237: 914350995
+      Fireboy and Watergirl Assets_238: -1421682787
+      Fireboy and Watergirl Assets_239: -2003040364
+      Fireboy and Watergirl Assets_240: 905197991
+      Fireboy and Watergirl Assets_241: -1071331047
+      Fireboy and Watergirl Assets_242: -1296886810
+      Fireboy and Watergirl Assets_243: 896707225
+      Fireboy and Watergirl Assets_244: -535354497
+      Fireboy and Watergirl Assets_245: 1347910811
+      Fireboy and Watergirl Assets_246: 1460872075
+      Fireboy and Watergirl Assets_247: 1228498123
+      Fireboy and Watergirl Assets_248: 283595775
+      Fireboy and Watergirl Assets_249: 846005921
+      Fireboy and Watergirl Assets_250: -669973742
+      Fireboy and Watergirl Assets_251: -1548226279
+      Fireboy and Watergirl Assets_252: -658804597
+      Fireboy and Watergirl Assets_253: -142153450
+      Fireboy and Watergirl Assets_254: 1366631101
+      Fireboy and Watergirl Assets_255: 443642201
+      Fireboy and Watergirl Assets_256: 755859649
+      Fireboy and Watergirl Assets_257: 1792117503
+      Fireboy and Watergirl Assets_258: -260984537
+      Fireboy and Watergirl Assets_259: 1736485129
+      Fireboy and Watergirl Assets_26: 493577269
+      Gem_FB: 163016050
+      Gem_FW: -728274946
+      Gem_WG: -1114588366
+      Gem_XX: 863072251
+      WG_HeadFace_0: 1523751938
+      WG_HeadFace_1: -1878185204
+      WG_HeadFace_10: -1633974776
+      WG_HeadFace_11: -1419357995
+      WG_HeadFace_12: 500773355
+      WG_HeadFace_13: -674206461
+      WG_HeadFace_14: -110919497
+      WG_HeadFace_15: 1900332133
+      WG_HeadFace_16: 1936273044
+      WG_HeadFace_17: -857460072
+      WG_HeadFace_18: 544010766
+      WG_HeadFace_19: -923263741
+      WG_HeadFace_2: 981924468
+      WG_HeadFace_20: 1172667656
+      WG_HeadFace_21: -2014232605
+      WG_HeadFace_22: 794062860
+      WG_HeadFace_23: 1472001533
+      WG_HeadFace_24: -1066686724
+      WG_HeadFace_25: 636807632
+      WG_HeadFace_26: 1481315441
+      WG_HeadFace_27: -846674316
+      WG_HeadFace_28: 85681732
+      WG_HeadFace_29: 1390822272
+      WG_HeadFace_3: -594976056
+      WG_HeadFace_4: 121628784
+      WG_HeadFace_5: -1872874331
+      WG_HeadFace_6: -1017687652
+      WG_HeadFace_7: -393458037
+      WG_HeadFace_8: -1351743683
+      WG_HeadFace_9: 1680301152
+      WG_HeadFall_0: 1380651880
+      WG_HeadFall_1: -1676598943
+      WG_HeadFall_10: -1102091218
+      WG_HeadFall_2: -1730399105
+      WG_HeadFall_3: -2063718872
+      WG_HeadFall_4: -2139071890
+      WG_HeadFall_5: 602740742
+      WG_HeadFall_6: -246120006
+      WG_HeadFall_7: -1737333595
+      WG_HeadFall_8: -2068716610
+      WG_HeadFall_9: 492975277
+      WG_HeadRise_0: 127699744
+      WG_HeadRise_1: -1902748619
+      WG_HeadRise_10: 878274677
+      WG_HeadRise_2: -1913163770
+      WG_HeadRise_3: -1135415070
+      WG_HeadRise_4: 933919612
+      WG_HeadRise_5: 2051817293
+      WG_HeadRise_6: 835099000
+      WG_HeadRise_7: 1784232884
+      WG_HeadRise_8: 1763418442
+      WG_HeadRise_9: 922529352
+      WG_HeadSide_0: 570405108
+      WG_HeadSide_1: -502037721
+      WG_HeadSide_10: 1433778031
+      WG_HeadSide_2: 873110615
+      WG_HeadSide_3: 36925276
+      WG_HeadSide_4: -1583099613
+      WG_HeadSide_5: 1578938014
+      WG_HeadSide_6: -481181607
+      WG_HeadSide_7: -1032017285
+      WG_HeadSide_8: 1648901650
+      WG_HeadSide_9: -2040300708
+      WG_LegsFace_0: 126515562
+      WG_LegsSide_0: -1534664177
+      WG_LegsSide_1: 1428633078
+      WG_LegsSide_2: -1954732427
+      WG_LegsSide_3: -1264127645
+      WG_LegsSide_4: -1420435683
+      WG_LegsSide_5: -509141364
+      WG_LegsSide_6: -271644992
+      WG_LegsSide_7: 1671206123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
