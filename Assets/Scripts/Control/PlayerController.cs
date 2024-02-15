@@ -43,12 +43,12 @@ public class PlayerController : MonoBehaviour
     {
         try
         {
-            if (other.isTrigger)
+            if (!other.isTrigger)
             {
-                Physics2D.IgnoreCollision(other, TriggerCollider);
-                return;
+                PlayerStateSingleton.Instance.Get(type).IsGrounded = IsCollidingWithGround();
             }
-            PlayerStateSingleton.Instance.Get(type).IsGrounded = IsCollidingWithGround();
+
+
         } catch
         {
             InitLifetimeValues();
@@ -83,6 +83,7 @@ public class PlayerController : MonoBehaviour
             
             float targetSpeed = Mathf.Clamp(state.PlayerInput.x, -1, 1) * 5;
             UpdateSpeed(targetSpeed);
+            state.Position = transform.position;
         } catch
         {
             InitLifetimeValues();
@@ -105,9 +106,6 @@ public class PlayerController : MonoBehaviour
         float targetDiff = targetSpeed - PlayerRigidBody.velocity.x;
         float multiplier = 1 - Mathf.Pow(HANDLING_RATE, Time.deltaTime);
         float rawForce = targetDiff * multiplier;
-
-        Debug.Log(PlayerRigidBody.velocity);
-        Debug.Log($"Target velocity diff: {targetDiff}; force applied: {rawForce}");
 
         PlayerRigidBody.AddForce(new(rawForce, 0), ForceMode2D.Impulse);
     }

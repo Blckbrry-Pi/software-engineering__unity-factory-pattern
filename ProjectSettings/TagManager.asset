@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DeadlyToFire
   - DeadlyToWater
+  - DeadlyToBoth
   layers:
   - Default
   - TransparentFX

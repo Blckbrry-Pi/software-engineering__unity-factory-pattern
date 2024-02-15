@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d78b90d5edb43493c93ed688510c7cea, type: 3}
+  m_Name: LittleWater
+  m_EditorClassIdentifier: 
+  BasicFactories: {fileID: 11400000, guid: 8877e939511f14f1cb86e714376e0515, type: 2}
+  ChosenPoolType: 1

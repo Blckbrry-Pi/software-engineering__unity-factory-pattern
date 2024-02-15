@@ -13,6 +13,13 @@ public class PlayerStateSingleton : MonoBehaviour
         public PlayerType Type;
         public bool IsGrounded = false;
         public float LastJumpTime = 0;
+        public bool IsDead = false;
+
+        public float InvincibilityStart = 0f;
+
+        public int InvincibilityFrames => (int) Mathf.Max(InvincibilityStart - Time.time + 0.1f, 0);
+
+        public Vector2 Position = Vector2.zero;
         
         public PlayerState(PlayerType type) => Type = type;
 
@@ -52,6 +59,15 @@ public class PlayerStateSingleton : MonoBehaviour
                     _ => Vector2.zero
                 };
             }
+        }
+
+        public void Reset()
+        {
+            IsGrounded = false;
+            LastJumpTime = 0;
+            IsDead = false;
+            Position = Vector2.zero;
+            InvincibilityStart = Time.time;
         }
     }
 

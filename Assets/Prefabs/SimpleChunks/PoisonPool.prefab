@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7557493013349391426}
   - component: {fileID: 7904663866070103431}
   - component: {fileID: 2963958622685764611}
+  - component: {fileID: 8812732751490922283}
   m_Layer: 0
   m_Name: Right
   m_TagString: DeadlyToWater
@@ -186,6 +187,20 @@ PolygonCollider2D:
       - {x: -0.9, y: 0.4}
       - {x: -0.8, y: 0.45}
   m_UseDelaunayMesh: 1
+--- !u!114 &8812732751490922283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214497017314779469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e92f7a220b80435e9db6be9be99bf6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DeadlyToFire: 1
+  DeadlyToWater: 1
 --- !u!1 &3338856929731863598
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,6 +213,7 @@ GameObject:
   - component: {fileID: 1408643484554539522}
   - component: {fileID: 3763155677618760597}
   - component: {fileID: 821692098178608549}
+  - component: {fileID: 4156337688405863837}
   m_Layer: 0
   m_Name: Middle
   m_TagString: DeadlyToWater
@@ -376,6 +392,20 @@ PolygonCollider2D:
       - {x: 1, y: 0}
       - {x: 1, y: 0.15}
   m_UseDelaunayMesh: 0
+--- !u!114 &4156337688405863837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3338856929731863598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e92f7a220b80435e9db6be9be99bf6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DeadlyToFire: 1
+  DeadlyToWater: 1
 --- !u!1 &5098219188210401917
 GameObject:
   m_ObjectHideFlags: 0
@@ -388,6 +418,7 @@ GameObject:
   - component: {fileID: 6588348024547818981}
   - component: {fileID: 2603169098796308054}
   - component: {fileID: 5774894606668396003}
+  - component: {fileID: 9176147325068211698}
   m_Layer: 0
   m_Name: Left
   m_TagString: DeadlyToWater
@@ -562,6 +593,20 @@ PolygonCollider2D:
       - {x: 0.9, y: 0.4}
       - {x: 0.8, y: 0.45}
   m_UseDelaunayMesh: 1
+--- !u!114 &9176147325068211698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5098219188210401917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e92f7a220b80435e9db6be9be99bf6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DeadlyToFire: 1
+  DeadlyToWater: 1
 --- !u!1 &9052641772448109571
 GameObject:
   m_ObjectHideFlags: 0

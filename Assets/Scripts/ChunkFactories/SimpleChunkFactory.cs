@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SimpleChunkFactory : ScriptableObject, MapChunkFactory
+public class SimpleChunkFactory : MapChunkFactory
 {
     public GameObject chunkPrefab;
 
@@ -10,11 +10,13 @@ public class SimpleChunkFactory : ScriptableObject, MapChunkFactory
         chunkPrefab = lavaPoolPrefab;
     }
 
-    public GameObject InstantiateChunk(
+    public override GameObject InstantiateChunk(
         GameObject parent,
         Vector2 offset,
         float size
     ) {
+        float middleSize = Mathf.Max(size - 2, 1);
+
         GameObject instance = Instantiate(
             chunkPrefab,
             offset,
@@ -28,9 +30,9 @@ public class SimpleChunkFactory : ScriptableObject, MapChunkFactory
         GameObject lastChild = instance.transform.GetChild(2).gameObject;
 
         SpriteRenderer middleChildSpriteRenderer = middleChild.GetComponent<SpriteRenderer>();
-        middleChildSpriteRenderer.size = new Vector2(Mathf.Floor(size), middleChildSpriteRenderer.size.y);
+        middleChildSpriteRenderer.size = new Vector2(Mathf.Floor(middleSize), middleChildSpriteRenderer.size.y);
 
-        lastChild.transform.localPosition = lastChild.transform.localPosition + Vector3.right * Mathf.Floor(size - 1);
+        lastChild.transform.localPosition += Vector3.right * Mathf.Floor(middleSize - 1);
 
         return instance;
     }

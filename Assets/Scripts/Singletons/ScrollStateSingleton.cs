@@ -28,7 +28,8 @@ public class ScrollStateSingleton : MonoBehaviour
         _instance.GetOrInitInstance(this);
 
         float lerpVal = 1 - Mathf.Pow(1 - SCROLL_SPEED, Time.deltaTime);
-        SmoothScroll = Vector2.Lerp(SmoothScroll, Scroll, lerpVal);
+        Vector2 newTarget = Vector2.Lerp(SmoothScroll, Scroll, lerpVal);
+        SmoothScroll = new(Mathf.Max(SmoothScroll.x, newTarget.x), newTarget.y);
 
         // Scroll += new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")) * Time.deltaTime;
     }
